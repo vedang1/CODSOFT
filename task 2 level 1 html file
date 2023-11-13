@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vedang Maheshwari - Personal Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1><img src="logo.png" alt="Vedang Maheshwari"></h1>
+    <p>Web Developer</p>
+  </header>
+
+  <section id="about">
+    <img src="profile-pic.jpg" alt="Vedang Maheshwari">
+    <h2>Vedang Maheshwari</h2>
+    <p>Web developer with a passion for building user-friendly and visually appealing websites. I have experience with HTML, CSS, JavaScript, and React. I am also skilled in SEO and responsive web design.</p>
+  </section>
+
+  <section id="skills">
+    <h3>Skills</h3>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>React</li>
+      <li>SEO</li>
+      <li>Responsive web design</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h3>Projects</h3>
+
+    <div class="project">
+      <h4>Project Title 1</h4>
+      <img src="project-image-1.png" alt="Project Image 1">
+      <p>Project description</p>
+    </div>
+
+    <div class="project">
+      <h4>Project Title 2</h4>
+      <img src="project-image-2.png" alt="Project Image 2">
+      <p>Project description</p>
+    </div>
+
+    </section>
+
+  <section id="resume">
+    <h3>Resume</h3>
+    <a href="resume.pdf">Download Resume</a>
+  </section>
+
+  <section id="contact">
+    <h3>Contact</h3>
+    <p>Email: vedang.maheshwari@example.com</p>
+    <p>Phone: +1-555-555-5555</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Vedang Maheshwari</p>
+    <a href="https://github.com/vedangmaheshwari">GitHub</a>
+    <a href="https://linkedin.com/in/vedangmaheshwari">LinkedIn</a>
+  </footer>
+
+</body>
+</html>
